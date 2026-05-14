@@ -1,8 +1,7 @@
 <img src = "https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/refs/heads/main/img/header.png" alt = "banner">
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true" Meus interesses pessoais:>
-Sou um estudante de SI.
-<table>
 <a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=Arthur-Vasconcelos7&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
+<table>
  <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@arthurvasconcelos7">WakaTime</a></td>
 </tr> 
