@@ -2,6 +2,7 @@
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true" Meus interesses pessoais:>
 Sou um estudante de SI.
 <table>
+<a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=Arthur-Vasconcelos7&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
  <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@arthurvasconcelos7">WakaTime</a></td>
 </tr> 
@@ -37,4 +38,4 @@ Sou um estudante de SI.
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31qqwv4lpw7lybtydri6b2fh5c7m">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31qqwv4lpw7lybtydri6b2fh5c7m" alt="Data Card for Spotify">
 </a>
-<a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=Arthur-Vasconcelos7&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
+
